@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/04e23cc2-ba8f-478c-8545-65989c8895a4" alt="H1nds Profile Banner" width="100%">
+<img src="https://github.com/user-attachments/assets/f5d68d79-7ff9-4e07-8745-c6c34a28eb23" alt="H1nds Profile Banner" width="100%">
 
 <br>
 
@@ -12,4 +12,4 @@
  ▒ ░▒░ ░ ▒ ░░ ░░   ░ ▒░ ░ ▒  ▒ ░ ░▒  ░ ░
  ░  ░░ ░ ▒ ░   ░   ░ ░  ░ ░  ░ ░  ░  ░  
  ░  ░  ░ ░           ░    ░          ░  
-                        ░               
+                        ░              
