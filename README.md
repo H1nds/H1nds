@@ -1,4 +1,4 @@
-<img src="<img width="735" height="490" alt="Banner" src="https://github.com/user-attachments/assets/04e23cc2-ba8f-478c-8545-65989c8895a4" />" alt="H1nds Profile Banner" width="100%">
+<img src="https://github.com/user-attachments/assets/04e23cc2-ba8f-478c-8545-65989c8895a4" alt="H1nds Profile Banner" width="100%">
 
 <br>
 
